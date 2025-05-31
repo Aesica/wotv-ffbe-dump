@@ -3,7 +3,7 @@
  
 # Feel like buying me a cup of coffee?
 
-(Refer to the original branch for donation links)
+(Refer to the original branch by shalzuth for their donation links)
 
 # Legal stuff
 
